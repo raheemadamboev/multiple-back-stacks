@@ -1,6 +1,6 @@
 # multiple-back-stacks
 
-<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/multiple-back-stacks/blob/master/banner.gif" />
+<img align="right" width="296" height="600"  src="https://github.com/raheemadamboev/multiple-back-stacks/blob/main/banner.gif" />
 
 A simple app that demonstrates having multiple back stacks using Jetpack Compose Navigation via NavigationBar.
 
